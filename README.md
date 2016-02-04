@@ -21,6 +21,7 @@ Also the reviews which needs to be evaluated also needs to be in the same format
 2) Based on the training data classifier the given test data is tagged to its review to be truthful/deceptive and positive/negative review.
 
 6) All the input files need to be in '.txt' format. 
+
 Commands:
 1)Run the nblearn.py
 python nblearn.py "root path"
