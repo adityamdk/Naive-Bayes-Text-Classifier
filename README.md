@@ -1,6 +1,6 @@
 # Naive-Bayes-Text-Classifier
-1)Naive Bayes text classifier is a supervised learning method we introduce is  a probabilistic learning method which classifies the given text .
-2)We are classifying a given hotel review to be positive/negative review and also to classify to it either a real/fake review.
+1)Naive Bayes text classifier is a supervised learning method that uses probabilistic learning method to classify a given text based on training data .
+2)We are classifying a given hotel review to be positive/negative review and as either a real/fake review.
 
 3)The folder structure for training and testing data needs to be as follows:
 
